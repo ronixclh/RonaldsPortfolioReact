@@ -43,6 +43,7 @@ const projects = [
     skills: 'React Native',
     img: project04,
     imgBig: project04Big,
+    tildaLink: 'https://justfor2.tilda.ws/',
   },
   {
     title: 'Landing',
