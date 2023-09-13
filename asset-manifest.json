@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c536168.css",
+    "main.js": "/static/js/main.519e1224.js",
+    "static/js/787.8b11e2ca.chunk.js": "/static/js/787.8b11e2ca.chunk.js",
+    "static/media/JustFor2Big.jpg": "/static/media/JustFor2Big.868c0a814bff4f5d24a9.jpg",
+    "static/media/LemonReservationBig.jpg": "/static/media/LemonReservationBig.ef43e24cab19afb88ce0.jpg",
+    "static/media/06-big.jpg": "/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
+    "static/media/LuxuryBig.jpg": "/static/media/LuxuryBig.71575a62622ddcf962f7.jpg",
+    "static/media/TodoBig.jpg": "/static/media/TodoBig.74bd7494bb1b2d60d790.jpg",
+    "static/media/CourseraWebsiteBig.jpg": "/static/media/CourseraWebsiteBig.7305d885a1e608b6976d.jpg",
+    "static/media/JustFor2.jpg": "/static/media/JustFor2.98eda9ddbcde9b302903.jpg",
+    "static/media/LemonReservation.jpg": "/static/media/LemonReservation.600df8868a66621170a4.jpg",
+    "static/media/06.jpg": "/static/media/06.750d56c60b9acd513b81.jpg",
+    "static/media/Todo.jpg": "/static/media/Todo.4a2af74dde09f1e3ee6e.jpg",
+    "static/media/Luxury.jpg": "/static/media/Luxury.7d15f8108b961d877fd2.jpg",
+    "static/media/tilda.svg": "/static/media/tilda.c8610f99bc84a4bb54307a3ca356149b.svg",
+    "static/media/header-bg.png": "/static/media/header-bg.7a95cd8029a659429038.png",
+    "static/media/CourseraWebsite.jpg": "/static/media/CourseraWebsite.35894c40a0bd1a57001e.jpg",
+    "static/media/sun.svg": "/static/media/sun.51393a375a81e44f27f1e33d713ca0ae.svg",
+    "static/media/moon.svg": "/static/media/moon.a84eb240a8739f0ef02594df4c131706.svg",
+    "static/media/gitHub.svg": "/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/index.html",
+    "main.1c536168.css.map": "/static/css/main.1c536168.css.map",
+    "main.519e1224.js.map": "/static/js/main.519e1224.js.map",
+    "787.8b11e2ca.chunk.js.map": "/static/js/787.8b11e2ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c536168.css",
+    "static/js/main.519e1224.js"
+  ]
+}
