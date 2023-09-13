@@ -1,10 +1,10 @@
-import vk from './../../img/icons/vk.svg'
-import instagram from './../../img/icons/instagram.svg'
-import twitter from './../../img/icons/twitter.svg'
-import linkedIn from './../../img/icons/linkedIn.svg'
-import gitHub from './../../img/icons/gitHub.svg'
-
 import './style.css'
+
+import Vk from './Vk'
+import Instagram from './Instagram'
+import Twitter from './Twitter'
+import GitHub from './GitHub'
+import LinkedIn from './LinkedIn'
 
 function Footer() {
   return (
@@ -13,36 +13,23 @@ function Footer() {
         <div className="footer__wrapper">
           <ul className="social">
             <li className="social__item">
-              <a href="#!">
-                {' '}
-                <img src={vk} alt="Link" />
-              </a>
+              <Vk />
             </li>
             <li className="social__item">
-              <a href="#!">
-                <img src={instagram} alt="Link" />
-              </a>
+              <Instagram />
             </li>
             <li className="social__item">
-              <a href="#!">
-                {' '}
-                <img src={twitter} alt="Link" />
-              </a>
+              <Twitter />
             </li>
             <li className="social__item">
-              <a href="#!">
-                {' '}
-                <img src={gitHub} alt="Link" />
-              </a>
+              <GitHub />
             </li>
             <li className="social__item">
-              <a href="#!">
-                <img src={linkedIn} alt="Link" />
-              </a>
+              <LinkedIn />
             </li>
           </ul>
           <div className="copyright">
-            <p>© 2023 frontend-dev.com</p>
+            <p>© 2023 randomlink.com</p>
           </div>
         </div>
       </div>

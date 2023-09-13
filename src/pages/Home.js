@@ -12,14 +12,16 @@ function Home() {
           <ul className="content-list">
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
-              <p>
-                JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM,
-                BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
-              </p>
+              <p>JavaScript, ReactJS, HTML, CSS, NPM, BootStrap, ChakraUI.</p>
             </li>
             <li className="content-list__item">
               <h2 className="title-2">Backend</h2>
-              <p>NodeJS, MySQL, MongoDB, PHP, Laravel</p>
+              <p>MS SQL server</p>
+            </li>
+
+            <li className="content-list__item">
+              <h2 className="title-2">WEB Design</h2>
+              <p>Figma, Tilda.</p>
             </li>
           </ul>
         </div>

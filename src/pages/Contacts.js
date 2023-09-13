@@ -11,13 +11,6 @@ function Contacts() {
           </li>
 
           <li className="content-list__item">
-            <h2 className="title-2">Telegram / WhatsApp</h2>
-            <p>
-              <a href="tel:+37129828671">+371 29828671</a>
-            </p>
-          </li>
-
-          <li className="content-list__item">
             <h2 className="title-2">Email</h2>
             <p>
               <a href="mailto:ronalds.borisovs@inbox.lv">

@@ -2,6 +2,7 @@ import { useParams } from 'react-router-dom'
 
 import BtnGitHub from '../components/btnGitHub/BtnGitHub'
 import { projects } from './../helpers/projectsList'
+import BtnTilda from '../components/btnTilda/BtnTilda'
 
 function Project() {
   const { id } = useParams()
@@ -21,9 +22,12 @@ function Project() {
 
           <div className="project-details__desc">
             <p>Skills: {project.skills}</p>
+            <br />
+            <p>Description: {project.description}</p>
           </div>
 
-          {project.gitHubLink && <BtnGitHub link="https://github.com/" />}
+          {project.gitHubLink && <BtnGitHub link={project.gitHubLink} />}
+          {project.tildaLink && <BtnTilda link={project.tildaLink} />}
         </div>
       </div>
     </main>

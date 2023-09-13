@@ -1,59 +1,67 @@
-import project01 from './../img/projects/01.jpg'
-import project01Big from './../img/projects/01-big.jpg'
+import CourseraWebsite from '../img/projects/CourseraWebsite.jpg'
+import CourseraWebsiteBig from '../img/projects/CourseraWebsiteBig.jpg'
 
-import project02 from './../img/projects/02.jpg'
-import project02Big from './../img/projects/02-big.jpg'
+import JustFor2 from '../img/projects/JustFor2.jpg'
+import JustFor2Big from '../img/projects/JustFor2Big.jpg'
 
-import project03 from './../img/projects/03.jpg'
-import project03Big from './../img/projects/03-big.jpg'
+import LemonReservation from '../img/projects/LemonReservation.jpg'
+import LemonReservationBig from '../img/projects/LemonReservationBig.jpg'
 
-import project04 from './../img/projects/04.jpg'
-import project04Big from './../img/projects/04-big.jpg'
+import Luxury from '../img/projects/Luxury.jpg'
+import LuxuryBig from '../img/projects/LuxuryBig.jpg'
 
-import project05 from './../img/projects/05.jpg'
-import project05Big from './../img/projects/05-big.jpg'
+import Todo from '../img/projects/Todo.jpg'
+import TodoBig from '../img/projects/TodoBig.jpg'
 
-import project06 from './../img/projects/06.jpg'
-import project06Big from './../img/projects/06-big.jpg'
+import project06 from '../img/projects/06.jpg'
+import project06Big from '../img/projects/06-big.jpg'
 
 const projects = [
   {
-    title: 'Gaming streaming portal',
-    skills: 'React, Node.js, MongoDB',
-    img: project01,
-    imgBig: project01Big,
-    gitHubLink: 'https://github.com/',
-  },
-  {
-    title: 'Video service',
-    skills: 'React, PHP, MySql',
-    img: project02,
-    imgBig: project02Big,
-    gitHubLink: 'https://github.com/',
-  },
-  {
-    title: 'Video portal',
-    skills: 'Vue JS, Node.js, MongoDB',
-    img: project03,
-    imgBig: project03Big,
-    gitHubLink: 'https://github.com/',
-  },
-  {
-    title: 'Dating app',
-    skills: 'React Native',
-    img: project04,
-    imgBig: project04Big,
+    title: 'SMU JustFor2 Website',
+    skills: 'Designed in Figma, solution realized in Tilda',
+    description: "Website created for my sister's school business (:",
+    img: JustFor2,
+    imgBig: JustFor2Big,
     tildaLink: 'https://justfor2.tilda.ws/',
   },
   {
-    title: 'Landing',
-    skills: 'HTML, SCSS, JS',
-    img: project05,
-    imgBig: project05Big,
+    title: 'Coursera Portfolio Website',
+    skills: 'JS,React, HTML, CSS, NPM',
+    description: 'Website created during my Meta Front-end developer courses',
+    img: CourseraWebsite,
+    imgBig: CourseraWebsiteBig,
+    gitHubLink: 'https://github.com/ronixclh/CourseraPortfolioWebsite',
   },
   {
-    title: 'Gaming community',
+    title: 'Todo App',
+    skills: 'JS, React, HTML, CSS, NPM',
+    description:
+      'Todo App created during my React courses from Bogdan Staschuk',
+    img: Todo,
+    imgBig: TodoBig,
+    gitHubLink: 'https://github.com/ronixclh/TodoApp',
+  },
+  {
+    title: 'Luxury Jewelry Landing Page',
+    skills: 'HTML, CSS, NPM',
+    description: 'This Landing page was created during my Meta Html courses',
+    img: Luxury,
+    imgBig: LuxuryBig,
+    gitHubLink: 'https://github.com/ronixclh/LuxuryJewelry',
+  },
+  {
+    title: 'Form Reservation for LL Restaurant',
+    skills: 'JS, React, HTML, CSS, NPM, ChakraUI',
+    description: 'Capstone project for Meta Front-end developer certificate',
+    img: LemonReservation,
+    imgBig: LemonReservationBig,
+    gitHubLink: 'https://github.com/ronixclh/FormReservationLittleLemon',
+  },
+  {
+    title: 'Another nice project, to be continued...',
     skills: 'React, PHP, MySQL',
+    description: 'Working on that... (:',
     img: project06,
     imgBig: project06Big,
   },
