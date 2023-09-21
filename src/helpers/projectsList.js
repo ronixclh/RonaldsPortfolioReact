@@ -16,6 +16,9 @@ import TodoBig from '../img/projects/TodoBig.jpg'
 import project06 from '../img/projects/06.jpg'
 import project06Big from '../img/projects/06-big.jpg'
 
+import MNTN from '../img/projects/MNTN.jpg'
+import MNTNBig from '../img/projects/MNTNBig.jpg'
+
 const projects = [
   {
     title: 'SMU JustFor2 Website',
@@ -26,12 +29,12 @@ const projects = [
     tildaLink: 'https://justfor2.tilda.ws/',
   },
   {
-    title: 'Coursera Portfolio Website',
-    skills: 'JS,React, HTML, CSS, NPM',
-    description: 'Website created during my Meta Front-end developer courses',
-    img: CourseraWebsite,
-    imgBig: CourseraWebsiteBig,
-    gitHubLink: 'https://github.com/ronixclh/CourseraPortfolioWebsite',
+    title: 'MNTN Website',
+    skills: 'HTML, CSS, JS',
+    description: 'Some cool website for hiking!',
+    img: MNTN,
+    imgBig: MNTNBig,
+    gitHubLink: 'https://github.com/ronixclh/MNTN',
   },
   {
     title: 'Todo App',
@@ -64,6 +67,14 @@ const projects = [
     description: 'Working on that... (:',
     img: project06,
     imgBig: project06Big,
+  },
+  {
+    title: 'Coursera Portfolio Website',
+    skills: 'JS,React, HTML, CSS, NPM',
+    description: 'Website created during my Meta Front-end developer courses',
+    img: CourseraWebsite,
+    imgBig: CourseraWebsiteBig,
+    gitHubLink: 'https://github.com/ronixclh/CourseraPortfolioWebsite',
   },
 ]
 
